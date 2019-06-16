@@ -581,6 +581,8 @@ tileidx_t tilep_species_to_base_tile(int sp, int level)
         return TILEP_BASE_OGRE;
     case SP_TROLL:
         return TILEP_BASE_TROLL;
+    case SP_WEREWOLF:
+        return TILEP_BASE_WEREWOLF;
     case SP_BASE_DRACONIAN:
     case SP_RED_DRACONIAN:
     case SP_WHITE_DRACONIAN:
