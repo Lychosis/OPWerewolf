@@ -77,6 +77,8 @@ ogre_m OGRE
 ogre_f
 troll_f TROLL
 troll_m
+werewolf_m WEREWOLF
+werewolf_f
 octopode1 OCTOPODE
 octopode2
 octopode3
