@@ -9,7 +9,7 @@ aptitudes:
   hp: 3
   mp_mod: 0
   mr: 3
-  fighting: 3
+  fighting: 0
   short_blades: 0
   long_blades: 0
   axes: 0
@@ -21,24 +21,25 @@ aptitudes:
   crossbows: 0
   throwing: 0
   armour: 0
-  dodging: 2
+  dodging: 0
   stealth: 0
   shields: 0
-  unarmed_combat: 3
-  spellcasting: -3
-  conjurations: -3
-  hexes: -3
-  charms: -3
-  summoning: -3
-  necromancy: -3
-  translocations: -3
-  transmutations: -3
-  fire_magic: -3
-  ice_magic: -3
-  air_magic: -3
-  earth_magic: -3
-  poison_magic: -3
+  unarmed_combat: 0
+  spellcasting: -1
+  conjurations: 0
+  hexes: 0
+  charms: 0
+  summoning: 0
+  necromancy: 0
+  translocations: 0
+  transmutations: 0
+  fire_magic: 0
+  ice_magic: 0
+  air_magic: 0
+  earth_magic: 0
+  poison_magic: 0
   evocations: 0
+  invocations: 1
 str: 10
 int: 5
 dex: 10
