@@ -10,20 +10,20 @@ aptitudes:
   mp_mod: 0
   mr: 3
   fighting: 3
-  short_blades: 3
-  long_blades: 3
-  axes: 3
-  maces_and_flails: 3
-  polearms: 3
-  staves: 3
-  slings: 2
-  bows: 2
-  crossbows: 2
-  throwing: 2
-  armour: 3
-  dodging: 3
-  stealth: 1
-  shields: 2
+  short_blades: 0
+  long_blades: 0
+  axes: 0
+  maces_and_flails: 0
+  polearms: 0
+  staves: 0
+  slings: 0
+  bows: 0
+  crossbows: 0
+  throwing: 0
+  armour: 0
+  dodging: 2
+  stealth: 0
+  shields: 0
   unarmed_combat: 3
   spellcasting: -3
   conjurations: -3
