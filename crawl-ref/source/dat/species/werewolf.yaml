@@ -6,10 +6,10 @@ difficulty: Simple
 difficulty_priority: 90
 aptitudes:
   xp: 0
-  hp: 3
+  hp: 2
   mp_mod: 0
-  mr: 3
-  fighting: 0
+  mr: 4
+  fighting: 3
   short_blades: 0
   long_blades: 0
   axes: 0
@@ -21,25 +21,25 @@ aptitudes:
   crossbows: 0
   throwing: 0
   armour: 0
-  dodging: 0
-  stealth: 0
+  dodging: 1
+  stealth: 1
   shields: 0
-  unarmed_combat: 0
-  spellcasting: -1
-  conjurations: 0
-  hexes: 0
-  charms: 0
-  summoning: 0
-  necromancy: 0
-  translocations: 0
-  transmutations: 0
-  fire_magic: 0
-  ice_magic: 0
-  air_magic: 0
-  earth_magic: 0
-  poison_magic: 0
+  unarmed_combat: 3
+  spellcasting: -4
+  conjurations: -4
+  hexes: -4
+  charms: -4
+  summoning: -4
+  necromancy: -4
+  translocations: -4
+  transmutations: -4
+  fire_magic: -4
+  ice_magic: -4
+  air_magic: -4
+  earth_magic: -4
+  poison_magic: -4
   evocations: 0
-  invocations: 1
+  invocations: 0
 str: 10
 int: 5
 dex: 10
@@ -60,8 +60,5 @@ mutations:
 
 recommended_jobs:
   - JOB_FIGHTER
-  - JOB_GLADIATOR
-  - JOB_MONK
-  - JOB_HUNTER
   - JOB_BERSERKER
-  - JOB_ABYSSAL_KNIGHT
+  - JOB_WANDERER
